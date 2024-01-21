@@ -20372,5 +20372,13 @@ background-color: #BFCFE7;
     overflow: hidden;
     pointer-events: none;
   }
-  
-  
+  .customers-row>.col-lg-3>label,.customers-row>.col-lg-4>label,.customers-row>.col-lg-6>label{
+    font-size: 10px;
+    color: #000;
+    font-weight: bold;
+    padding: 3px;
+  }
+  .customers-row>.col-lg-3>input,.customers-row>.col-lg-4>input{
+    width: 100% ;
+  }
+ 
